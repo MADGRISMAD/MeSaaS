@@ -3,7 +3,7 @@
     <h2 class="home-title">Choose Dishes</h2>
     <div class="grid grid-cols-3 gap-6">
       <div class="home-item">
-        <img src="https://placehold.co/100x100" alt="Spicy seasoned seafood noodles" class="home-item-image" />
+        <img src="https://png.pngtree.com/png-clipart/20230427/original/pngtree-food-waffle-squares-png-image_9114365.png" alt="Spicy seasoned seafood noodles" class="home-item-image" />
         <h3 class="home-item-title">Spicy seasoned seafood noodles</h3>
         <p class="home-item-price">$2.29</p>
         <p class="home-item-availability">20 Bowls available</p>
@@ -40,7 +40,7 @@ export default {
 }
 
 .home-item {
-  background-color: #252836; /* Color de fondo del card */
+  background-color: #1F1D2B; /* Color de fondo del card */
   padding: 20px;
   border-radius: 0.5rem;
   display: flex;

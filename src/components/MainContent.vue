@@ -22,7 +22,7 @@
     padding: 20px; /* Espaciado interno */
     display: flex;
     flex-direction: column;
-    background-color: #1F1D2B; /* Ajuste del color de fondo */
+    background-color: #2D303E; /* Ajuste del color de fondo */
     color: #E0E6ED; /* Color del texto */
   }
   </style>
